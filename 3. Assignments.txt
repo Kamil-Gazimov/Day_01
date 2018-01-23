@@ -1,0 +1,47 @@
+00. Uploaded Material	Python			iOS
+01. Day 01		Ruby			netCore
+MEAN			Web Fundamentals
+
+./00. Uploaded Material:
+00. academy-ninja-master	01. common-tags.html
+
+./00. Uploaded Material/00. academy-ninja-master:
+1. academy-ninja-master.zip	index.html
+img
+
+./00. Uploaded Material/00. academy-ninja-master/img:
+black_bg.jpg	down2.png	left2.png	right2.png	top2.png
+down1.png	left1.png	right1.png	top1.png	white_bg.jpg
+
+./01. Day 01:
+1. indentation practice.html	2. Registration Form.html
+
+./MEAN:
+about.txt
+
+./Python:
+about.txt
+
+./Ruby:
+about.txt
+
+./Web Fundamentals:
+CSS		Git		HTML		Javascript	about.txt
+
+./Web Fundamentals/CSS:
+about.txt
+
+./Web Fundamentals/Git:
+about.txt
+
+./Web Fundamentals/HTML:
+about.txt		indentation.html
+
+./Web Fundamentals/Javascript:
+about.txt
+
+./iOS:
+about.txt
+
+./netCore:
+about.txt
