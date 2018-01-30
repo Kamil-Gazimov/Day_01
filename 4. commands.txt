@@ -1,0 +1,20 @@
+1. pwd
+   cd desktop
+2. mkdir gittest
+3. cd gittest
+   git init
+4. touch index.html styles.css aboutMe.txt
+   git add index.html styles.css aboutMe.txt
+   git commit -m "Added files index.html styles.css aboutMe.txt"
+5. git add aboutMe.txt
+   git commit -m "updated aboutMe"
+6. git add aboutMe.txt
+   git commit -m "added favorite movie to aboutMe"
+7. git log
+8. git revert -n HEAD
+   git revert 3e07efb76a088cbfe8a9b8385a259555ded14579 and 5c6a3c75cc09475cc73a55de9831fb04a4d851b3
+   git commit -m "replaced my favorite movie with my favorite book"
+
+   
+
+
