@@ -1,0 +1,17 @@
+1. Created a new repository on GITHUB and called it GitHubRepoAssignment.
+
+2. Opened terminal prompt, and created a GitHubRepoAssignment folder.
+   cd GitHubRepoAssignment
+
+3. Initializd a git repository in your GitHubRepoAssignment directory
+   git init
+
+4. Made a readme.md in GitHubRepoAssignment folder explaining its contents.
+
+5. Did a status check to see the changes made, then added, commited and pushed changes
+   git status
+   git add readme.md
+   git commit -m "created a readme.md file"
+   git remote add origin https://github.com/Kamil-Gazimov/test.git
+   git push -u origin master
+ 
